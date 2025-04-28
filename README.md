@@ -5,3 +5,11 @@ This repository is created to share the data and files related to a scientific p
 
 
 ## STATA Code
+
+
+## Attachment 1: LSBQ-P
+
+
+
+## Attachment 2: Execl Based Calculator
+
